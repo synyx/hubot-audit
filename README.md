@@ -8,6 +8,8 @@ See [`src/audit.coffee`](src/audit.coffee) for full documentation.
 
 ## Installation
 
+# for now, copy src/audit.coffee to your hubot/scripts folder until the module gets included in nodejs repos
+
 In hubot project repo, run:
 
 `npm install hubot-audit --save`
